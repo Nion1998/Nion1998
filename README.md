@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nion1998&label=Profile%20views&color=0e75b6&style=flat" alt="nion1998" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nion1998" alt="nion1998" /></a> </p>
-
 - 💬 Ask me about **React, JavaScript, Laravel, Html, CSS, Bootstrap**
 
 - 📫 How to reach me **mehedi.nion@gmail.com**
@@ -20,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nion1998&show_icons=true&locale=en&layout=compact" alt="nion1998" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nion1998&show_icons=true&locale=en" alt="nion1998" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nion1998&" alt="nion1998" /></p>
